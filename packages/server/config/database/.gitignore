@@ -1,0 +1,4 @@
+# Ignore everything in the database folder
+*
+# But keep this .gitignore file tracked
+!.gitignore
